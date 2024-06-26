@@ -1,7 +1,7 @@
 ﻿using MathGameMAUI.Models;
 using SQLite;
 
-namespace MathGame.Maui.Data
+namespace MathGameMaui.Data
 {
     public class GameRepository
     {
